@@ -1,0 +1,26 @@
+{
+  "name": "cloud_craft_auth",
+  "version": "1.0.0",
+  "description": "blue ocean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisgood2go/cloud_craft_auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chrisgood2go/cloud_craft_auth/issues"
+  },
+  "homepage": "https://github.com/Chrisgood2go/cloud_craft_auth#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dot-env": "^0.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0"
+  }
+}
